@@ -1,0 +1,19 @@
+1)git init (initialize
+
+2) git status ( to check the status)
+ 
+3) git add ( to add file)
+
+
+4) git commit -m  (git commit -m "added testing files")
+
+5) git restore testing.py
+
+
+6)git push origin master
+
+7) git remote set-url origin https://@github.com/shelarmayur100/trainwithbshubham.git
+
+8) git push origin master
+
+9)  git clone https://github.com/shelarmayur100/trainwithbshubham.git
